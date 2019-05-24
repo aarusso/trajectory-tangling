@@ -16,7 +16,7 @@ Data should be formatted as for jPCA. Each data structure (e.g. D_m1, located in
 
 **tangleAnalysis.m**: compute trajectory tangling on data formatted as described above
 
-**tangling_demo.m**: visualize take kinematics, compute tangling on sample datasets, play around with parameters, visualize tangling in two dimensions
+**tangling_demo.m**: visualize task kinematics, compute tangling on sample datasets, play around with parameters, visualize tangling in two dimensions
 
 **tangle_visualize.m**: aids visualization of tangling on the sample datasets. 
 
