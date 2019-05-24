@@ -1,5 +1,5 @@
 # trajectory-tangling
-MATLAB code, Demo, and sample data to analyze data for trajectory tangling as in Russo et al Neuron 2018 (https://www.sciencedirect.com/science/article/pii/S0896627318300072?via%3Dihub)
+MATLAB code, demo, and sample data to analyze data for trajectory tangling as in Russo et al Neuron 2018 (https://www.sciencedirect.com/science/article/pii/S0896627318300072?via%3Dihub)
 
 # Datasets
 **M1_sampleData.mat**: trial-avergaged firing rates from 116 neurons
