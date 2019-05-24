@@ -1,7 +1,7 @@
 # trajectory-tangling
 MATLAB code, demo, and sample data to analyze data for trajectory tangling as in [Russo et al Neuron 2018](https://www.sciencedirect.com/science/article/pii/S0896627318300072?via%3Dihub)
 
-Author: Abigail Russo, May 2019
+**Author**: Abigail Russo, May 2019
 
 # Datasets
 The data included in this demo were recorded in the Churchland lab at Columbia University. Single-unit neural data were recorded sequentially from a macaque monkey during the performance of a hand-pedaling task.  Monkeys grasped a hand crank and cycled through a virtual environment for a number of prescribed cycles as indicated by a visual cue. The data included here correspond to two seven-cycle conditions. EMG data were recorded with intramuscular electrodes and are rectified and filtered to obtain an envelop of the muscle response. Neural and EMG were filtered with a Gaussian kernel with a standard deviation of 25ms and trial averaged. For more information about data processing and the task, see [Russo et al Neuron 2018](https://www.sciencedirect.com/science/article/pii/S0896627318300072?via%3Dihub).
