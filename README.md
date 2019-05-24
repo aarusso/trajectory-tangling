@@ -19,5 +19,5 @@ Data should be formatted as for [jPCA](https://www.dropbox.com/sh/2q3m5fqfscwf95
 * **tangle_visualize.m**: aids visualization of tangling on the sample datasets. 
 * **formattedScatter.m**: makes pretty scatter plots
 
-**Supporing functions**: *AxisMMC.m* (makes pretty axes, used by **formattedScatter**), *arrowMMC.m* (makes pretty arrows, used by **tangle_visualize**)
+*Supporing functions*: **AxisMMC.m** (makes pretty axes, used by **formattedScatter**), **arrowMMC.m** (makes pretty arrows, used by **tangle_visualize**)
 
